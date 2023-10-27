@@ -1,6 +1,6 @@
 # Laporan Proyek Machine Learning
 ### Nama : Livia
-### Nim :
+### Nim : 211351075
 ### Kelas : Pagi B
 
 ## Domain Proyek
