@@ -100,7 +100,7 @@ ax.set_xlabel("DEATH_EVENT",fontsize=15)
 ax.set_ylabel("Count",fontsize=15)
 plt.show()
 ```
-![alt text](info.png)
+![alt text](https://github.com/livia1073/project/blob/main/bar.png)
 Selanjutnya kita visualisasikan dengan pie chart berdasarkan jenis kelaminya
 ```bash
 plt.rcParams.update({'font.size': 15})
