@@ -212,14 +212,12 @@ pickle.dump(classifier,open(filename,'wb'))
 
 
 ## Evaluation
-Pada bagian ini anda perlu menyebutkan metrik evaluasi yang digunakan. Lalu anda perlu menjelaskan hasil proyek berdasarkan metrik evaluasi yang digunakan.
-
-Sebagai contoh, Anda memiih kasus klasifikasi dan menggunakan metrik **akurasi, precision, recall, dan F1 score**. Jelaskan mengenai beberapa hal berikut:
-- Penjelasan mengenai metrik yang digunakan
-- Menjelaskan hasil proyek berdasarkan metrik evaluasi
-
-Ingatlah, metrik evaluasi yang digunakan harus sesuai dengan konteks data, problem statement, dan solusi yang diinginkan.
+Pada evaluasi kita akan bandingan dengan algoritma Logistic regresion yang mana mempengaruhi akurasi sebanyak 1%
+![alt text](https://github.com/livia1073/project/blob/main/evaluation.png)
+Jadi dengan menggunakan linear regresion akurasinya lebih baik 1% di banding dengan logreg
 
 
 ## Deployment
-pada bagian ini anda memberikan link project yang diupload melalui streamlit share. boleh ditambahkan screen shoot halaman webnya.
+link project uts streamlit saya bisa di klik di bawah ini<br>
+[Link Project](https://project-uts.streamlit.app/)
+![alt text](https://github.com/livia1073/project/blob/main/webapp.png)
